@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [KW Clustering Tool](https://replit.com/bounties/@GennaroCuofano/kw-clustering-tool)
 
-- 👨‍💻 Its my portfolio [https://sagargaud01.github.io/My-Personal-site/](https://sagargaud01.github.io/My-Personal-site/)
+- 👨‍💻 Its my portfolio [https://sagargaud01.github.io/My-Personal-site/](https://sagargaud01.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://sagargaud01.blogspot.com/2021/05/blog-post.html?m=](https://sagargaud01.blogspot.com/2021/05/blog-post.html?m=)
 
