@@ -1,6 +1,6 @@
 ![logo](https://github.com/SAGARGAUD01/SAGARGAUD01/blob/main/Black%20Simple%20Business%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sagar Gaud</h1>
-<h3 align="center">3rd year student at Bundelkhand Institute of Engineering and Technology | Computer Science & Engineering | Contributing in GSOC-23.</h3>
+<h3 align="center">Final year student at Bundelkhand Institute of Engineering and Technology | Computer Science & Engineering | Contributing in GSOC-24.</h3>
 
 <img align="right" alt="coding" width="400" src="http://pa1.narvii.com/5806/6620e7e45fc809b46fd77d831211c1915635a0b4_00.gif">
 
@@ -23,8 +23,6 @@
 - 💬 Ask me about **DS,algo,vue and gsap**
 
 - 📫 How to reach me **sagargaud332@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1cRs7L7TxkbycHHp2Da0mA3GUk827zKqH?usp=share_link](https://drive.google.com/drive/folders/1cRs7L7TxkbycHHp2Da0mA3GUk827zKqH?usp=share_link)
 
 - ⚡ Fun fact **I think I am funny with extraordinary humor.**
 
