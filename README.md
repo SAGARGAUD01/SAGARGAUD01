@@ -3,14 +3,17 @@
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;PUBLIC%20SPEAKER;EXPERIENCED%20UI%2FUX%20DESIGNER;2%2B%20YEAR's%20of%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;PUBLIC%20SPEAKER;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h3 align="center">Final year student at Bundelkhand Institute of Engineering and Technology | Computer Science & Engineering | Contributing in GSOC-24.</h3>
 
 <img align="right" alt="coding" width="400" src="http://pa1.narvii.com/5806/6620e7e45fc809b46fd77d831211c1915635a0b4_00.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargaud01&label=Profile%20views&color=0e75b6&style=flat" alt="sagargaud01" /> </p>
+<p align="center"> 
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+  <img src="https://profile-counter.glitch.me/parulchaddha/count.svg"/>
+  </p>
 
 <p align="left"> <a href="https://twitter.com/sagarjay9" target="blank"><img src="https://img.shields.io/twitter/follow/sagarjay9?logo=twitter&style=for-the-badge" alt="sagarjay9" /></a> </p>
 
