@@ -6,6 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+
 <h3 align="center">Final year student at Bundelkhand Institute of Engineering and Technology | Computer Science & Engineering | Contributing in GSOC-24.</h3>
 
 <p align="center"> 
@@ -34,19 +35,17 @@
 
 - ⚡ Fun fact **I think I am funny with extraordinary dark humour.**
   
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/sagargaud01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sagargaud01" height="30" width="40" /></a>
-<a href="https://twitter.com/sagarjay9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarjay9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagar-gaud-66b0b9205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-gaud-66b0b9205" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sagargaud332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagargaud332" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@its_maddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@its_maddy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sagargaud332/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sagargaud332/practice" height="30" width="40" /></a>
+<p align="center">
+  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+   </p>
+<p align="center">
+<a href="https://discord.com/users/SAGARGAUD01#834052095757385769" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://leetcode.com/u/sagargaud332/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://x.com/Sagarjay9" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/sagargaud332/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/sagar__gaud/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 </p>
-
-<br>
-
+   
 <p align="center"> 
  🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
   </p>
