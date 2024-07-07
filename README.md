@@ -8,12 +8,13 @@
 
 <h3 align="center">Final year student at Bundelkhand Institute of Engineering and Technology | Computer Science & Engineering | Contributing in GSOC-24.</h3>
 
-<img align="right" alt="coding" width="400" src="http://pa1.narvii.com/5806/6620e7e45fc809b46fd77d831211c1915635a0b4_00.gif">
-<br>
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/parulchaddha/count.svg"/>
   </p>
+
+<img align="right" alt="coding" width="400" src="http://pa1.narvii.com/5806/6620e7e45fc809b46fd77d831211c1915635a0b4_00.gif">
+
 
 <p align="left"> <a href="https://twitter.com/sagarjay9" target="blank"><img src="https://img.shields.io/twitter/follow/sagarjay9?logo=twitter&style=for-the-badge" alt="sagarjay9" /></a> </p>
 
@@ -189,7 +190,6 @@ if (codeWorking){
                 codeQuality++;
             }
         }
-//
 ```
 
 <hr />
