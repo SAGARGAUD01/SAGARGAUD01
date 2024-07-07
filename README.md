@@ -3,13 +3,13 @@
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;PUBLIC%20SPEAKER;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h3 align="center">Final year student at Bundelkhand Institute of Engineering and Technology | Computer Science & Engineering | Contributing in GSOC-24.</h3>
 
 <img align="right" alt="coding" width="400" src="http://pa1.narvii.com/5806/6620e7e45fc809b46fd77d831211c1915635a0b4_00.gif">
-
+<br>
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/parulchaddha/count.svg"/>
@@ -32,6 +32,7 @@
 - 📫 How to reach me **sagargaud332@gmail.com**
 
 - ⚡ Fun fact **I think I am funny with extraordinary dark humour.**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,6 +43,8 @@
 <a href="https://www.hackerearth.com/@its_maddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@its_maddy" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sagargaud332/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sagargaud332/practice" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <p align="center"> 
  🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
