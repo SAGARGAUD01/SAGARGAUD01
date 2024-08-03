@@ -21,7 +21,8 @@
 
 - 🔭 I’m currently working with [Jenkins organization](https://github.com/SAGARGAUD01/jenkins.io)
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently work at NetElixir AIgnition & building AI-Driven Media Investment Plan Across Channels for E-commerce using Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
+Machine Learning: Scikit-learn
 
 - 👯 I’m looking to collaborate on [Social-Media app](https://github.com/SAGARGAUD01/Social-Media-App)
 
