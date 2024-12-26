@@ -28,8 +28,6 @@ Machine Learning: Scikit-learn
 
 - 🤝 I’m looking for help with [KW Clustering Tool](https://replit.com/bounties/@GennaroCuofano/kw-clustering-tool)
 
-- 📝 My blog on Medium  [Google Summer of Code - 24](https://link.medium.com/Di70mMmYeKb)
-
 - 💬 Ask me about **DS,algo,vue and open-source**
 
 - 📫 How to reach me **sagargaud332@gmail.com**
