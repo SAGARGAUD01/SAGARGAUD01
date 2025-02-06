@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagarjay9" target="blank"><img src="https://img.shields.io/twitter/follow/sagarjay9?logo=twitter&style=for-the-badge" alt="sagarjay9" /></a> </p>
 
-- 🤖 I’m currently work at NetElixir AIgnition & building AI-Driven Media Investment Plan Across Channels for E-commerce using Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
+- 🤖 I have contributed at NetElixir AIgnition Hackathon & building AI-Driven Media Investment Plan Across Channels for E-commerce using Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
 Machine Learning: Scikit-learn
 
 - 👯 I’m looking to collaborate on [Social-Media app](https://github.com/SAGARGAUD01/Social-Media-App)
