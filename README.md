@@ -7,7 +7,7 @@
 </p>
 
 
-<h3 align="center">Final year student at Bundelkhand Institute of Engineering and Technology | Computer Science & Engineering | Contributing in GSOC-24.</h3>
+<h3 align="center"> Graduated from Bundelkhand Institute of Engineering and Technology | Computer Science & Engineering | Contributing in GSOC-24.</h3>
 
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
